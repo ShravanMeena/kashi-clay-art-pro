@@ -42,10 +42,13 @@ export default function Banner() {
                     </div>
                     <div className="flex-shrink-0 grid grid-cols-1 gap-y-6 lg:gap-y-8">
                       <div className="w-44 h-64 rounded-lg overflow-hidden">
+                        <br />
+                        <br />
+                        <br />
                         <img
                           src="https://4.imimg.com/data4/NW/MH/ANDROID-23660541/product-500x500.jpeg"
                           alt=""
-                          className="w-full h-full object-center object-cover"
+                          className="w-full h-full rounded-lg object-center object-cover"
                         />
                       </div>
                       <div className="w-44 h-64 rounded-lg overflow-hidden">
